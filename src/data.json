@@ -1,0 +1,12 @@
+[
+  { "id": 1, "front": "apple", "back": "яблоко" },
+  { "id": 2, "front": "book", "back": "книга" },
+  { "id": 3, "front": "cat", "back": "кот" },
+  { "id": 4, "front": "dog", "back": "собака" },
+  { "id": 5, "front": "house", "back": "дом" },
+  { "id": 6, "front": "water", "back": "вода" },
+  { "id": 7, "front": "friend", "back": "друг" },
+  { "id": 8, "front": "school", "back": "школа" },
+  { "id": 9, "front": "computer", "back": "компьютер" },
+  { "id": 10, "front": "language", "back": "язык" }
+]

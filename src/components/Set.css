@@ -1,0 +1,30 @@
+.controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+  margin: 20px auto 0;
+  padding: 0 10px;
+}
+
+.btn {
+  padding: 10px 16px;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: Arial, sans-serif;
+}
+
+.btn:hover {
+  background-color: #006eff;
+}
+
+.counter {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
