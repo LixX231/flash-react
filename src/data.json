@@ -1,12 +1,12 @@
 [
-  { "id": 1, "front": "apple", "back": "яблоко" },
-  { "id": 2, "front": "book", "back": "книга" },
-  { "id": 3, "front": "cat", "back": "кот" },
-  { "id": 4, "front": "dog", "back": "собака" },
-  { "id": 5, "front": "house", "back": "дом" },
-  { "id": 6, "front": "water", "back": "вода" },
-  { "id": 7, "front": "friend", "back": "друг" },
-  { "id": 8, "front": "school", "back": "школа" },
-  { "id": 9, "front": "computer", "back": "компьютер" },
-  { "id": 10, "front": "language", "back": "язык" }
+  { "id": 1, "front": "apple", "back": "яблоко", "setName": "English" },
+  { "id": 2, "front": "book", "back": "книга", "setName": "English" },
+  { "id": 3, "front": "cat", "back": "кот", "setName": "English" },
+  { "id": 4, "front": "dog", "back": "собака", "setName": "English" },
+  { "id": 5, "front": "house", "back": "дом", "setName": "English" },
+  { "id": 6, "front": "color", "back": "задаёт цвет текста элемента", "setName": "CSS-Свойства" },
+  { "id": 7, "front": "background-color", "back": "устанавливает цвет фона", "setName": "CSS-Свойства" },
+  { "id": 8, "front": "font-size", "back": "определяет размер шрифта", "setName": "CSS-Свойства" },
+  { "id": 9, "front": "margin", "back": "задаёт внешние отступы вокруг элемента", "setName": "CSS-Свойства" },
+  { "id": 10, "front": "display", "back": "определяет тип отображения элемента (block, inline, flex и т.д.)", "setName": "CSS-Свойства" }
 ]
