@@ -1,9 +1,23 @@
 .header {
-  text-align: center;
-  padding: 16px;
-  background-color: #006eff;
+  background: #0A0080;
   color: white;
-  border-radius: 8px;
-  margin-bottom: 30px;
-  font-family: Arial, sans-serif;
+  padding: 15px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.header a:hover {
+  text-decoration: underline;
+}
+
+.main-menu_link {
+  font-size: 18px;
 }

@@ -1,0 +1,25 @@
+.set-list {
+  list-style: none;
+  padding: 20px;
+}
+
+.list-set__item {
+  margin-bottom: 10px;
+}
+
+.list-set__btn {
+  display: inline-block; /* вместо block */
+  padding: 12px 20px;
+  background: #eceaff;
+  border-radius: 8px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+  transition: 0.2s;
+}
+
+
+.list-set__btn:hover {
+  background: #d8d4ff;
+}

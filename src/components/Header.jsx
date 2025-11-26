@@ -1,9 +1,23 @@
+import { Link } from 'react-router-dom'
 import './Header.css'
 
 export default function Header() {
   return (
-    <header className="header">
-      <h1>Флеш-карточки</h1>
-    </header>
+    <div className="header">
+      <h1>
+        <Link to="/">Флеш-карточки</Link>
+      </h1>
+
+      <nav className="main-menu">
+        <ul>
+          <li>
+            <Link className="main-menu_link" to="/admin">
+              Создать сет
+            </Link>
+          </li>
+        </ul>
+      </nav>
+    </div>
   )
 }
+
